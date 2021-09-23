@@ -3,12 +3,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5001340155",
-        "name": "Stair Mill",
+        "name": "Navy Gym Shirt",
         "description": "This is very good for Cardio workout",
         "price": 1999.99,
         "category": 1,
         "rating": 4.6,
-        "image": "Evo Stair Mill 2000.jpg"
+        "image": "navy-gym-shirt.png"
     }
 },
 {
