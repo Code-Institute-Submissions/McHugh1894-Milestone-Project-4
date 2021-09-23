@@ -1,0 +1,274 @@
+[{
+    "pk": 1,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001340155",
+        "name": "Stair Mill",
+        "description": "This is very good for Cardio workout",
+        "price": 1999.99,
+        "category": 1,
+        "rating": 4.6,
+        "image": "Evo Stair Mill 2000.jpg"
+    }
+},
+{
+    "pk": 2,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001600425",
+        "name": "Trade Mill",
+        "description": "Very good for Cardio",
+        "price": 2999.99,
+        "category": 1,
+        "rating": 4.6,
+        "image": "X8.jpeg"
+    }
+},
+{
+    "pk": 3,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001730010",
+        "name": "X Pro Crosstrainer",
+        "description": "Branded cardio crosstrainer",
+        "price": 1599.99,
+        "category": 1,
+        "rating": 4.7,
+        "image": "Bolt X Pro Crosstrainer.jpeg"
+    }
+},
+{
+    "pk": 4,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5001890157",
+        "name": "4ft Commercial Boxing Bag (inc Chains and Swivel)",
+        "description": "Branded boxing bag",
+        "price": 169.99,
+        "category": 2,
+        "rating": 4.5,
+        "image": "4ft Commercial Boxing Bag (inc Chains and Swivel).jpeg"
+    }
+},
+{
+    "pk": 5,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002111605",
+        "name": "Hybrid 200 Boxing Glove White/Black",
+        "description": "Durable branded boxing gloves",
+        "price": 232.99,
+        "category": 2,
+        "rating": 5.0,
+        "image": "Adidas_Hybrid_200_Boxing_Glove_WhiteBlack.jpeg"
+    }
+},
+{
+    "pk": 6,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002260206",
+        "name": "Rookie Headguard",
+        "description": "Branded head gurd for boxers",
+        "price": 30.99,
+        "category": 2,
+        "rating": 4.7,
+        "image": "Adidas Rookie Headguard-Black, blue, red.jpeg"
+    }
+},
+{
+    "pk": 7,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002440521",
+        "name": "Strength Straight Barbell",
+        "description": "Branded weight lifitng barbell",
+        "price": 1000.0,
+        "category": 5,
+        "rating": 4.4,
+        "image": "Bolt Strength Straight Barbell.jpeg"
+    }
+},
+{
+    "pk": 8,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002601115",
+        "name": "Strength Selector DBL-1086x1536",
+        "description": "Durable Branded multi weight lifting eiquipments",
+        "price": 1999.99,
+        "category": 5,
+        "rating": 4.5,
+        "image": "Bolt-Strength-Selector-DBL-1086x1536.jpeg"
+    }
+},
+{
+    "pk": 9,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002690715",
+        "name": "Adjustable Dumbbells",
+        "description": "Branded all in one Dumbells",
+        "price": 1869.99,
+        "category": 5,
+        "rating": 4.7,
+        "image": "Puls8-Adjustable-Dumbbells.png"
+    }
+},
+{
+    "pk": 10,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002701115",
+        "name": "Latpull Down Mid Row",
+        "description": "Imported Muscle buildidng machine for Gym",
+        "price": 3333.99,
+        "category": 6,
+        "rating": 4.4,
+        "image": "Bolt-Strength-Latpull-Down-Mid-Row.png"
+    }
+},
+{
+    "pk": 11,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002761055",
+        "name": "Cable Cross Over",
+        "description": "Imported Muscle buildidng machine for Gym",
+        "price": 3029.99,
+        "category": 6,
+        "rating": 4.0,
+        "image": "Bolt Cable Cross Over.jpeg"
+    }
+},
+{
+    "pk": 12,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820069",
+        "name": "Forward Bend & Backwards Press",
+        "description": "Keep him moving in comfort all day with quality Nike crew socks.  arch support reinforced toe and heel cotton/polyester/spandex washable imported",
+        "price": 3219.99,
+        "category": 6,
+        "rating": 4.6,
+        "image": "Bolt Forward Bend & Backwards Press.jpeg"
+    }
+},
+{
+    "pk": 13,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002820147",
+        "name": "Protein Bar",
+        "description": "All natural protein bar",
+        "price": 50.0,
+        "category": 7,
+        "rating": 4.2,
+        "image": "Layered Protein Bar.jpeg"
+    }
+},
+{
+    "pk": 14,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002910572",
+        "name": "Protein Spreads",
+        "description": "All natural protein spreads",
+        "price": 56.99,
+        "category": 7,
+        "rating": 4.7,
+        "image": "Protein Spreads.jpeg"
+    }
+},
+{
+    "pk": 15,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5002990740",
+        "name": "Vegan baked cookie",
+        "description": "All natural vegan cookie for healthy body",
+        "price": 48.99,
+        "category": 7,
+        "rating": 4.8,
+        "image": "Vegan baked cookie.jpeg"
+    }
+},
+{
+    "pk": 16,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003050248",
+        "name": "Clear Whey Isolate",
+        "description": "Workout suppliments",
+        "price": 65.99,
+        "category": 9,
+        "rating": 4.4,
+        "image": "Clear Whey Isolate.webp"
+    }
+},
+{
+    "pk": 17,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003070787",
+        "name": "Impact Whey Protein",
+        "description": "Workout suppliments",
+        "price": 79.99,
+        "category": 9,
+        "rating": 4.4,
+        "image": "Impact Whey Protein.jpeg"
+    }
+},
+{
+    "pk": 18,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003090182",
+        "name": "THE Whey",
+        "description": "Workout Proteins",
+        "price": 59.99,
+        "category": 9,
+        "rating": 4.8,
+        "image": "THE Whey.jpeg"
+    }
+},
+{
+    "pk": 19,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003090186",
+        "name": "Carb metboliser",
+        "description": "Weight loss suppliments",
+        "price": 60.99,
+        "category": 10,
+        "rating": 5.0,
+        "image": "Carb metboliser.jpeg"
+    }
+},
+{
+    "pk": 20,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003161326",
+        "name": "Omega-3 Plus Softgels",
+        "description": "Weight loss suppliments ",
+        "price": 50.99,
+        "category": 10,
+        "rating": 4.7,
+        "image": "Omega-3 Plus Softgels.jpeg"
+    }
+},
+{
+    "pk": 21,
+    "model": "products.product",
+    "fields": {
+        "sku": "pp5003230723",
+        "name": "Chromium Picolinate Tablets",
+        "description": "Weight loss suppliments ",
+        "price": 60.99,
+        "category": 10,
+        "rating": 4.3,
+        "image": "Chromium Picolinate Tablets.jpeg"
+    }
+}
+]
