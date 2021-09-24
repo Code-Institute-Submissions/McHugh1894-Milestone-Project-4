@@ -5,10 +5,10 @@
                 Shop
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">By Price</a>
-                <a href="" class="dropdown-item ">By Rating</a>
-                <a href="" class="dropdown-item ">By Category</a>
-                <a href="" class="dropdown-item">All Products</a>
+                <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
+                <a href="{% url 'products' %}?sort=rating&direction=desc" class="dropdown-item ">By Rating</a>
+                <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Category</a>
+                <a href="{% url 'products' %}" class="dropdown-item">All Products</a>
             </div>
         </li>
 
@@ -18,9 +18,9 @@
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
                 <a href="{% url 'products' %}?category=activewear,stringers" class="dropdown-item">Stringers</a>
-                <a href="{% url 'products' %}?category=shirts">Shirts</a>
-                <a href="{% url 'products' %}?category=shorts">Shorts</a>
-                <a href="{% url 'products' %}?category=activewear,stringers,shirts,shorts">All Fitness Clothing</a>
+                <a href="{% url 'products' %}?category=shirts" class="dropdown-item">Shirts</a>
+                <a href="{% url 'products' %}?category=shorts" class="dropdown-item">Shorts</a>
+                <a href="{% url 'products' %}" class="dropdown-item">All Fitness Clothing</a>
             </div>
         </li>
 
@@ -29,9 +29,9 @@
                 Fitness Equipment
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="{% url 'products' %}?category=Weights">Weights</a>
-                <a href="{% url 'products' %}?category=Cardio">Cardio</a>
-                <a href="{% url 'products' %}?category=Training Plans">Training Plans</a>
+                <a href="{% url 'products' %}?category=Weights" class="dropdown-item">Weights</a>
+                <a href="{% url 'products' %}?category=Cardio" class="dropdown-item">Cardio</a>
+                <a href="{% url 'products' %}?category=Training Plans" class="dropdown-item">Training Plans</a>
                 <a href="{% url 'products' %}" class="dropdown-item">All Fitness Equipment</a>
             </div>
         </li>
