@@ -26,15 +26,7 @@
     "pk": 4,
     "model": "products.category",
     "fields": {
-        "name": "deals",
-        "friendly_name": "Deals"
-    }
-},
-{
-    "pk": 5,
-    "model": "products.category",
-    "fields": {
-        "name": "weights",
+        "name": "Weights",
         "friendly_name": "Weights"
     }
 },
@@ -42,8 +34,8 @@
     "pk": 6,
     "model": "products.category",
     "fields": {
-        "name": "essential_equipments",
-        "friendly_name": "Essential Equipments"
+        "name": "Exercise Classes",
+        "friendly_name": "Exercise Classes"
     }
 },
 {
@@ -55,27 +47,12 @@
     }
 },
 {
-    "pk": 8,
-    "model": "products.category",
-    "fields": {
-        "name": "new_arrivals",
-        "friendly_name": "New Arrivals"
-    }
-},
-{
     "pk": 9,
     "model": "products.category",
     "fields": {
         "name": "Cardio",
         "friendly_name": "Cardio"
     }
-},
-{
-    "pk": 10,
-    "model": "products.category",
-    "fields": {
-        "name": "Training Plans",
-        "friendly_name": "Training Plan"
-    }
 }
+
 ]

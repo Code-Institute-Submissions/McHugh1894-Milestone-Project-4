@@ -250,12 +250,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5003161326",
-        "name": "Omega-3 Plus Softgels",
+        "name": "Treadmill",
         "description": "Weight loss suppliments ",
         "price": 50.99,
         "category": 10,
         "rating": 4.7,
-        "image": "Omega-3 Plus Softgels.jpeg"
+        "image": "treadmill.jpg"
     }
 },
 {
@@ -263,12 +263,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5003230723",
-        "name": "Chromium Picolinate Tablets",
+        "name": "Yoga Class",
         "description": "Weight loss suppliments ",
         "price": 60.99,
         "category": 10,
         "rating": 4.3,
-        "image": "Chromium Picolinate Tablets.jpeg"
+        "image": "yoga.jpg"
     }
 }
 ]
