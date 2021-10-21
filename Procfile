@@ -1,1 +1,1 @@
-web: gunicorn fit4life-oisin.wsgi:application
+gunicorn fit4life-oisin.wsgi:application
