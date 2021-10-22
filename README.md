@@ -66,9 +66,9 @@ The Fit4Life website is a real world application, designed for the selling of fi
 
 ### Imagery:
 
-- On the landing page, the Hero image represents 'FIT BEAST' in the name of the company. As image is about fitness and toughness which represents Beast in fitness world. It was downloaded from [pixabay](https://pixabay.com/)
+- On the landing page, the Hero image represents 'Fit4Life' in the name of the company. As image is about fitness and toughness which represents Beast in fitness world. It was downloaded from [pixabay](https://pixabay.com/)
 
-![FIT BEAST Hero Image](media/homepage_background.jpg)
+![-](media/homepage_background.jpg)
 
 - The origin of all other images is detailed in the [Credits](#Credits) section,
 
@@ -402,7 +402,7 @@ if 'USE_AWS' in os.environ:
 7. Finally, push to GitHub, and all changes should be automatically pushed to Heroku too.
 
 ### Making a Local Clone:
-In order to make a local clone of the FIT BEAST website, enter ```git clone https://github.com/atiqbeenrahim/milestone-project-04.git``` into the terminal. 
+In order to make a local clone of the Fit4Life website, enter ```git clone https://github.com/McHugh1894/Milestone-Project-4``` into the terminal. 
 
 
 Next, create an .env.py file in the root directory of the project, and add it to the .gitignore file. 
@@ -448,9 +448,11 @@ the corresponding file, then it is in error, and should have been acknowledged.
 
 ### Images: 
 
-- All product images are the property of fitnessequipmentireland.ie, and were taken from their website.
+- All product images are the property of [MCSPORT](https://www.mcsport.ie/), and were taken from there website.
 
-- The background image on the homepage is from [pixabay](https://pixabay.com/)
+- The clothing images were taken from [ASOS](https://www.asos.com/)
+
+- The background image on the homepage is from [Unsplash](https://unsplash.com/)
 
 - The favicon image, is from [Icons8](https://icons8.com/)
 
