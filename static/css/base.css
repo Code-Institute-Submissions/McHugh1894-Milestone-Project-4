@@ -174,32 +174,45 @@ input[name='q']::placeholder {
     overflow-y: auto;
 }
 
-/* footer */
-.page-footer{
-    color:#ffffff;
-}
-
-.bg-color {
-    background-color: #000000;
-}
-
-.social-style{
-    margin: 0 0.9rem;
-    font-size: 1.2rem;
-    -webkit-transition: all .8s ease-in-out;
-    -o-transition: all .8s ease-in-out;
-    transition: all .8s ease-in-out;
-}
-.copyright-text{
-    font-size: 0.8rem;
-}
-.copyright-text > p{
-    margin-bottom: 0.3rem;
-}
-.footer-title{
-    font-size: 1rem;
-    font-family: 'Roboto', sans-serif;
-}
+/*Footer*/
+.footer {
+    background-color: #000;
+    color: #ffffff;
+    min-height: 80px;
+    width: 100%;
+    bottom: 0px;
+    margin-top: auto;
+  }
+  .footer-div {
+    padding-top: 10px;
+  }
+  .social-links {
+    padding-bottom: 10px;
+  }
+  .social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 10px 0;
+    border-radius: 50%;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: #ffffff;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+  }
+  .social-links li a i:hover {
+    background: #000;
+    color: white;
+  }
+  #footer-details {
+    padding: 10px;
+    text-align: center;
+  }
+  /*End Footer*/
+  
 /* below colors found: https://usbrandcolors.com/ */
 #facebook:hover{
     color: #ffffff;
