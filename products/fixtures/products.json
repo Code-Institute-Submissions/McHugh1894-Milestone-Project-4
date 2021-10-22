@@ -16,12 +16,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5001600425",
-        "name": "Trade Mill",
+        "name": "Assault Nike",
         "description": "Very good for Cardio",
         "price": 2999.99,
         "category": 1,
         "rating": 4.6,
-        "image": "X8.jpeg"
+        "image": "assault-bike.jpg"
     }
 },
 {
@@ -29,12 +29,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5001730010",
-        "name": "X Pro Crosstrainer",
+        "name": "Black Gym Shirt",
         "description": "Branded cardio crosstrainer",
         "price": 1599.99,
         "category": 1,
         "rating": 4.7,
-        "image": "Bolt X Pro Crosstrainer.jpeg"
+        "image": "black-gym-top.jfif"
     }
 },
 {
