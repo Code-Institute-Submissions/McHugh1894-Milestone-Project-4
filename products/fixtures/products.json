@@ -172,12 +172,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5002910572",
-        "name": "Protein Spreads",
-        "description": "All natural protein spreads",
+        "name": "Dumbbell Set",
+        "description": "",
         "price": 56.99,
         "category": 7,
         "rating": 4.7,
-        "image": "Protein Spreads.jpeg"
+        "image": "Dumbbell-set.jpg"
     }
 },
 {
@@ -185,12 +185,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5002990740",
-        "name": "Vegan baked cookie",
-        "description": "All natural vegan cookie for healthy body",
+        "name": "Grey Shortd",
+        "description": "",
         "price": 48.99,
         "category": 7,
         "rating": 4.8,
-        "image": "Vegan baked cookie.jpeg"
+        "image": "grey-gym-shorts.jfif"
     }
 },
 {
@@ -198,12 +198,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5003050248",
-        "name": "Clear Whey Isolate",
-        "description": "Workout suppliments",
+        "name": "Hex Bar",
+        "description": "",
         "price": 65.99,
         "category": 9,
         "rating": 4.4,
-        "image": "Clear Whey Isolate.webp"
+        "image": "hex-bar.jpg"
     }
 },
 {
@@ -211,12 +211,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5003070787",
-        "name": "Impact Whey Protein",
-        "description": "Workout suppliments",
+        "name": "Navy Shorts",
+        "description": "",
         "price": 79.99,
         "category": 9,
         "rating": 4.4,
-        "image": "Impact Whey Protein.jpeg"
+        "image": "navy-gym-shorts.jfif"
     }
 },
 {
@@ -224,12 +224,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5003090182",
-        "name": "THE Whey",
-        "description": "Workout Proteins",
+        "name": "Olympic Barbell",
+        "description": "",
         "price": 59.99,
         "category": 9,
         "rating": 4.8,
-        "image": "THE Whey.jpeg"
+        "image": "olympic-barbell.png"
     }
 },
 {
@@ -237,12 +237,12 @@
     "model": "products.product",
     "fields": {
         "sku": "pp5003090186",
-        "name": "Carb metboliser",
-        "description": "Weight loss suppliments",
+        "name": "Rowing Machine",
+        "description": "",
         "price": 60.99,
         "category": 10,
         "rating": 5.0,
-        "image": "Carb metboliser.jpeg"
+        "image": "rowing-machine.jpg"
     }
 },
 {
@@ -251,7 +251,7 @@
     "fields": {
         "sku": "pp5003161326",
         "name": "Treadmill",
-        "description": "Weight loss suppliments ",
+        "description": "",
         "price": 50.99,
         "category": 10,
         "rating": 4.7,

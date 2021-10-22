@@ -22,7 +22,7 @@ def contact(request):
             send_mail(
                 form_data['name'] + " - " + form_data['email'],
                 form_data['message'],
-                'fitbeast001@gmail.com',
+                'fit4life@gmail.com',
                 [settings.DEFAULT_FROM_EMAIL],
                 fail_silently=False,
             )
@@ -34,4 +34,4 @@ def contact(request):
         'form': contact_form,
     }
 
-    return render(request, 'contact/contact.html', context)
+    return render(request, 'contact/templates/contact/contact.html', context)
