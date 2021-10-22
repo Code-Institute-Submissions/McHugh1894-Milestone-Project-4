@@ -1,12 +1,12 @@
 <div align="center">
 
-# **FIT BEAST - Milestone Project 04**
+# **Fit4Life - Milestone Project 04**
 
-<img src="https://i.ibb.co/YkKYXjD/mp4.png">
+<img src="">
 
 An e commerce site for Health product and Gym instruments.
 
-Visit [FIT BEAST](https://milestone-project-04.herokuapp.com/)
+Visit [-](https://fit4life-oisin.herokuapp.com//)
 </div>
 
 ## **Table of Contents:**
