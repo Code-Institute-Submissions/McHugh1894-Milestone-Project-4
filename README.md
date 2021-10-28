@@ -455,7 +455,7 @@ the corresponding file, then it is in error, and should have been acknowledged.
 
 ### Content:
 
-- All content on the site was either taken from the Boutique Ado project, fitnessireland, or written by the developer.
+- All content on the site was either taken from the Boutique Ado project, McSport, ASOS or written by the developer.
 
 ## Acknowledgements:
 
