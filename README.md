@@ -4,7 +4,7 @@
 
 <img src="">
 
-An e commerce site for Health product and Gym instruments.
+An e commerce site for Fitness clothing and equipment.
 
 Visit [-](https://fit4life-oisin.herokuapp.com//)
 </div>
