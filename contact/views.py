@@ -34,4 +34,4 @@ def contact(request):
         'form': contact_form,
     }
 
-    return render(request, 'contact/templates/contact/contact.html', context)
+    return render(request, 'contact/contact.html', context)

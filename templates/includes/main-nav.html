@@ -35,9 +35,13 @@
                 <a href="{% url 'products' %}?category=Weights,Cardio,Exercise Classes" class="dropdown-item">All Fitness Equipment</a>
             </div>
         </li>
-        <li class="nav-item dropdown">
+        <li class="nav-item dropdown" href="{% url 'contact' %}" >
                 <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'contact' %}" id="contact-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Contact Us
-                </a>    
+                    Contact 
+                </a>
+        <li class="nav-item dropdown" href="{% url 'blog' %}">
+                    <a class="logo-font font-weight-bold nav-link text-black mr-5" href="{% url 'blog' %}" id="contact-link" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Blog 
+                    </a>    
     </ul>
 </div>
