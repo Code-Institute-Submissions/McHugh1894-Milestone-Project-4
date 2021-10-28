@@ -76,12 +76,9 @@ The Fit4Life website is a real world application, designed for the selling of fi
 
 - Black (#000) was chosen as the background colour for the navbar and footer.
 
-- Sky Blue (#87ceeb) was used for all buttons, discount banner and footer social media logos that are on the black background as it goes well with the hero image, as well as making a good contrast 
-with the black background.
-
 - White (#fff) was used as the backgorund, and black (#000) was used for the text on all pages other than the landing page so that the background and text do not detract from the products displayed.
 
-- Balloon Blue (#2B60DE) was used for Logo of the website/company.
+
 
 
 ### Typography:
@@ -184,8 +181,7 @@ the site:
 - **Add Product**: The superuser (Admin) can add products to the database.
 - **Edit Product**: The superuser (Admin) can edit products that are already in the database.
 - **Delete Product**: The superuser (Admin) can delete products that are already in the database.
-- **Add Review**: A logged in and registered user can add a review.
-- **Delete Review**: The superuser (Admin) can delete a review.
+
 
 #### Future Features:
 
