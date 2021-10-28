@@ -66,7 +66,7 @@ The Fit4Life website is a real world application, designed for the selling of fi
 
 ### Imagery:
 
-- On the landing page, the Hero image represents 'Fit4Life' in the name of the company. As image is about fitness and toughness which represents Beast in fitness world. It was downloaded from [pixabay](https://pixabay.com/)
+- On the landing page, the Hero image represents 'Fit4Life' in the name of the company. As image is about fitness and toughness which represents the fitness world. It was downloaded from [UNSPLASH](http://www.unsplash.com)
 
 ![-](media/homepage_background.jpg)
 
@@ -78,12 +78,9 @@ The Fit4Life website is a real world application, designed for the selling of fi
 
 - White (#fff) was used as the backgorund, and black (#000) was used for the text on all pages other than the landing page so that the background and text do not detract from the products displayed.
 
-
-
-
 ### Typography:
 
-- 'Chakra Petch' was chosen for all logo elements and page titles as it is striking, and appropriate for a logo as well text.
+- 'Lato' was chosen for all logo elements and page titles as it is striking, and appropriate for a logo as well text.
 - 'sans-serif' was chosen as fallback font.
 
 ### Layout: 
@@ -91,9 +88,8 @@ The Fit4Life website is a real world application, designed for the selling of fi
 #### Accessible to all users via the navbar:
 
 - All Pages:
-- **About** dropdown with the following options:
-    - **About**: A short biography of the company.
-    - **Contact**: Contact the business owner via a contact form.
+ 
+ **Contact**: Contact the business owner via a contact form.
 - **My Account**: 
     - **Login**: Login for existing users.
     - **Register**: Register as a user.
@@ -108,13 +104,13 @@ The Fit4Life website is a real world application, designed for the selling of fi
 - **Fitness Equipment** dropdown with the following product options:
     - **Cardio**: Show a selection of cardio.
     - **Weights**: Show a selection of weights.
-    - **Exercise Classes**: Show a selection of essential equipments.
+    - **Exercise Classes**: Shows exercise classes.
     -**All Gym Items**: Show all Gym items.
 - **Fitness Clothing** dropdown with the following options:
-    - **Stringers**: Show all bar & snacks products.
-    - **Shirts**: Show all proteins products.
-    - **Shorts**: Show all weight loss products.
-    - **All Fitness Clothing**: Show all suppliment products.
+    - **Stringers**: Shows all stringers.
+    - **Shirts**: Shows all shirts.
+    - **Shorts**: Shows all shorts.
+    - **All Fitness Clothing**: Show all clothing products.
 
 #### Accessible to logged in regisered users via the Navbar:
 
