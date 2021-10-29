@@ -157,7 +157,7 @@ The Fit4Life website is a real world application, designed for the selling of fi
 
 ### Wireframes:
 
-- The Desktop and Mobile screen wireframes <a href="" target="_blank">here.</a>
+- The Desktop and Mobile screen wireframes [Wireframes](https://github.com/McHugh1894/Milestone-Project-4/tree/main/media/README-Images)
 
 
 ### Features:
