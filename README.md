@@ -6,7 +6,7 @@
 
 An e commerce site for Fitness clothing and equipment.
 
-Visit [Fit4Life](https://fit4life-oisin.herokuapp.com//)
+Visit [Fit4Life](https://fit4life-oisin.herokuapp.com/)
 </div>
 
 ## **Table of Contents:**
