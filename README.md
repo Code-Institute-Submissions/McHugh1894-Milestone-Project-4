@@ -128,8 +128,7 @@ The Fit4Life website is a real world application, designed for the selling of fi
     - **Facebook**
     - **Twitter**
     - **Instagram**
-    - **GIT Hub**
-- **Email**: Icon Link to available for contact business owner.
+    - **YouTube**
 
 #### Accessible to all users on the Products page:
 
@@ -226,7 +225,7 @@ In future I would like to add the following features:
 
 - The image below was produced using the [dbdiagram.io](https://dbdiagram.io/)
 
-<img src="https://i.ibb.co/rfL9MKM/db-schema.jpg">
+<img src="media/README-Images/diagram.png">
 
 ## Accessibility:
 
