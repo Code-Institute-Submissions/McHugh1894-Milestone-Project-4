@@ -22,7 +22,7 @@ def contact(request):
             send_mail(
                 form_data['name'] + " - " + form_data['email'],
                 form_data['message'],
-                'fit4life@gmail.com',
+                'fit4life1894@gmail.com',
                 [settings.DEFAULT_FROM_EMAIL],
                 fail_silently=False,
             )
