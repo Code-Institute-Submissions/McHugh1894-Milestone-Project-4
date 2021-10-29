@@ -177,6 +177,9 @@ the site:
 - **Edit Product**: The superuser (Admin) can edit products that are already in the database.
 - **Delete Product**: The superuser (Admin) can delete products that are already in the database.
 
+- **Demo Payment** Use the following details for testing purposes. 
+                    stripe card number: 4242 4242 4242 4242
+
 
 #### Future Features:
 
@@ -184,7 +187,6 @@ In future I would like to add the following features:
 
 - **Verified Purchases**: I would like to allow only customers who have bought an item to be able to leave a review for it.
 - **Wishlist**: I would like users to be able to create a wishlist.
-- **Delivery Address**: I would like users to be able to specify different billing and delivery addresses.
 - **Paypal**: I would like users to be able to pay for their items using Paypal.
 - **Apple Pay**: I would like users to be able to pay for their items using Apple Pay.
 - **Documentation**: More photos will be added to the documentaion, in order to make explanations more explicit.
