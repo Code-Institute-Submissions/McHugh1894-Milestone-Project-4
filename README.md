@@ -2,11 +2,11 @@
 
 # **Fit4Life - Milestone Project 04**
 
-<img src="">
+<img src="media/README-Images/Responsive.png">
 
 An e commerce site for Fitness clothing and equipment.
 
-Visit [-](https://fit4life-oisin.herokuapp.com//)
+Visit [Fit4Life](https://fit4life-oisin.herokuapp.com//)
 </div>
 
 ## **Table of Contents:**
