@@ -54,21 +54,59 @@ The Fit4Life website is a real world application, designed for the selling of fi
 1. The site owner's primary goal is to sell their products to new and returning customers.
 2. The secondary goal is to showcase new products that are available to new and returning customers. 
 
-## User Stories:
+## User Stories
 
-<img src="https://i.ibb.co/YWj1v1B/us1.png">
-<img src="https://i.ibb.co/ZSWZ9cH/us2.png">
-<img src="https://i.ibb.co/LhFfygM/us3.png">
-<img src="https://i.ibb.co/8shLGjx/us4.png">
-<img src="https://i.ibb.co/9VSPbD6/us5.png">
+  ### Viewing and Navigation
+- #### As a shopper
+    1. I want to be able to view a list of products so that I can select a purchase.
+    1. I want to be able to view individual products details so that I can identify the price, description, rating, image and availability.
+    1. I want to be able to be easily view the total of my purchase at any time so that I dont spend too much.
 
+### Registration and User Account
+- #### As a site user
+     1. I want to be able to easily register so that I can have a personal account and and be able to view my profile.
+    1. I want to be able to easily login or logout so that I can access my personal account information.
+    1. I want to be able to recieve an email confirmation after registering so that I can verify my account.
+    1. I want to be able to have a personal profile so that I can view my order history.
+
+### Sorting and Searching
+- #### As a shopper
+     1. I want to be able to sort the list of available products so that I can easily identify the best priced, rated and categorically sorted products.
+    1. I want to be able to sort a specific category or product so that I can find the best priced or best rated in a specific category.
+    1. I want to be able to search for a product by name or description so that I can find a specific product.
+    1. I want to be able to easily see what I searched for.
+
+### Purchasing and Checkout
+- #### As a shopper
+     1. I want to be able to select the size and quantity of a product so that I dont select the wrong option when purchasing.
+    1. I want to be able to view the item in my bag to be purchased so that I see the cost of the items and what I will recieve.
+    1. I want to be able to adjust the quantity of individual items in my bag so that I can make changes to my purchase before checkout
+    1. I want to be able to easily enter my payment information so that I can checkout quickly.
+    1. I want to be able to personal and payment information is safe and secure so that I can confidently provide the needed information for purchase. 
+    1. I want to be able to view an order confirmation after checkout so that I can verify that I havent made any mistakes.
+
+### Admin and Store Management
+- #### As a store owner
+     1. I want to be able to add a product so that I can add new items to my store.
+    1. I want to be able to edit/update a product so that I can change prices, images, description and other criteria.
+    1. I want to be able to delete a product so that I can remove an item that is no longer for sale.
+
+### Blog
+- #### As a shopper
+     1. I want to be able to learn about the company background so that I can build trust on the company and services.
+
+### Contact
+- #### As a site owner
+     1. I want to be able to recieve queries so that I can provide a better service to the customer.
+     
+                  
+                  
 ## Design:
 
 ### Imagery:
 
 - On the landing page, the Hero image represents 'Fit4Life' in the name of the company. As image is about fitness and toughness which represents the fitness world. It was downloaded from [UNSPLASH](http://www.unsplash.com)
 
-![-](media/homepage_background.jpg)
 
 - The origin of all other images is detailed in the [Credits](#Credits) section,
 
@@ -237,8 +275,7 @@ In order to ensure that all images are accessible for those using a screen reade
 throughout the site include alt tags.
 
 ## Testing:
-
- - There are dead links on the footer on Social media Icons (Facebook, Instagram and Twitter).
+ 
  - There are no errors and warnings in the Developer console
  - Tested using lighthouse and it passes the result
  - The page is fully responsive and has been tested using the Developer console.
