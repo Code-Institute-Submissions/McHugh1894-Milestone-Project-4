@@ -294,3 +294,396 @@ Please see below for a list of all screen sizes that my site was found to be mob
     * Shopping bag page is not mobile responsive, I tried many different ways to make it validate in accordance to the boutique ado shopping bag page but the reality is I could not do it in such a way that validated the html code and made it mobile responsive, which is a shame. I didn't spot the error with validation until very late in the game and unfortunately I did not get sufficient time to fix the error. Its not mobile responsive which is horrible considering everything else is.
 
 
+## User Story Testing
+
+#### User Story 1
+
+* I want to be able to quickly view the products that the site is selling.
+
+##### Action
+
+* The user will see and be made aware what the site is about and selling via homepage imagery, header cta and navigation links. Navigate to the homepage or by using the navbar to move across the site.
+
+##### Expectation
+
+* The site makes it very clear straight away to the user what the site sells and also clear navigation to understand the categories of products for sale on the site and a clear and visible CTA on the homepage header which makes it clear what I want the user to do.
+
+##### Result
+
+* The homepage background image makes it clear what the store is about and what we sell. The navigation is clear and intuitive with the categories of products shown and dropdown menus ti show the various categories of items on the site. The Header Cts stands out and is easy to read so makes it clear to the user whjat they need to do.
+
+* homepage background image
+    ![home-back-image]()
+
+* Navigation
+    ![navbar]()
+
+* homepage CTA
+    ![home-cta]()
+
+#### User Story 2
+
+* I want to be able to easily navigate throughout the site.
+
+##### Action
+
+* User clicks on the navbar toggler button on mobile view at the op of the page to open the menu or on deskyop sees the navbar displayed at the top of every page.
+
+##### Expectation
+
+* The user can quickly and intuitvely navigate throughout the site and see that once they add a product to their bag the bag item in the navbar changes color to gold to indicate they have an item in their bag. The user should also be aware that by clicking on the My Account link on the navbar they get the option to be taken to their profile to see their default delivery information and a logout option so to allow th user to logout of the site regardl;ess of whatever page they are on.
+
+##### Result
+
+* The user is able to navigate through the site using the navbar, the user can also move to their bag page and complete their purchase by choosing the bag icon in the navbar once an item has been added. The user is also able and understanding of using the searchbar to search for products that they wish to know more about on the site. Overall, the user has a good understanding of where they are and where they want to go.
+
+* Navbar
+    ![navbar]()
+
+* searchbar + bag
+    ![searchbar-and-bag]()
+
+* bag with items
+    ![bag-with-items]()
+
+* my account options
+    ![my-account-options]()
+
+#### User Story 3
+
+* I want to be able to find out more information about the company and see if they have a social media presence.
+
+##### Action
+
+* User clicks on the social media links in the footer in order to see the social profiles of company and find out more information about company. Also, clicks on contact us and sends a message if there's more they need to know
+
+##### Expectation
+
+* The user travels to the social media sites of the company by following the links in the footer. The user navigates to the contact us page and sends a message to the company, they are then informed of successful sending of message.
+
+##### Result
+
+* The user sees and navigates to the social media sites of the company and finds out the information they need about the company. The user successfully manages to send their message to the site using the contact us page and gets confirmation of successful delivery of message.
+
+* Footer with socials
+    ![footer]()
+
+* contact us page
+    ![contact-us]()
+
+* contact us successful
+    ![contact-us-successful]()
+
+#### User Story 4
+
+* I want to be able to contact the company.
+
+##### Action
+
+* The user clicks on contact us in the navbar and is taken to the contact us page where they can contact the store.
+
+##### Expectation
+
+* The user recognizes and follows the navigation to the contact us page where they fill in the contact form and submit. No errors in the form and all fields entered.
+
+##### Result
+
+* The user successfully fills in all relevant information in the form and successfully sends the message to the site.
+
+* message successful
+    ![contact-us-successful]()
+
+* ensure form is valid
+    ![form-validation-error]()
+
+#### User Story 5
+
+* I would like to be able to search for a specific item using the search bar.
+
+##### Action
+
+* user clicks on the searchbar in the navbar and types in whatever they are looking for and submits their search.
+
+##### Expectation
+
+* A result of the search will appear on the page below with information on the search query the user has provided.
+
+##### Result
+
+* The user enters a search term related to an item/s on the site and the search returns items for the user. If an item is not entyered before submitting an error appears on screen to the user asking them to enter a search and if the user enters a search term not related to an item on site then a message appears informing them that no such product is in the database.
+
+* searchbar
+    ![searchbar]()
+
+* searchbar invalid
+    ![searchbar-invalid]()
+
+* search results
+    ![search-results]()
+
+* no results
+    ![no-results]()
+
+#### User Story 6
+
+* I want to be able to search the site based on the different categories.
+
+##### Action
+
+* User clicks on one of the categories in the navbar and a list of subcategories appears below.
+
+##### Expectation
+
+* The User clicks on one of the links in the searchbar which will display to the user a list of subcategories below the navbar. The user can then click on the subcategory to show all results of products on the site related to that particular subcategory.
+
+##### Result
+
+* The user successfully manages to search for products on the site using the list of subcategories in the navbar dropdown menus.
+
+* category dropdowns
+    ![category]()
+
+* products related to category search
+    ![category-search]()
+
+#### User Story 7
+
+* I want to be able to see all product details before I choose to buy the item
+
+##### Action
+
+* User navigates to products page and clicks on a product and is taken to the product details page displaying all information relevant to the product.
+
+##### Expectation
+
+* The user finds the product they want and clicks on it, navigates to the product details page for that particular product and all the relevant product information is displayed for the user. They then either add product to their shopping bag or return to the products page.
+
+##### Result
+
+* The user successfully manages to navigate to the product details page and can see all the relevant product information displayed before the user decides whether or not to buy the product. They can then choose to add product to their bag or they can return to shopping by clicking on the buttons on the product details page. if they choose to add to their bad a notification message appears to inform them the product has been added to their bag.
+
+* product details page
+    ![product-details-page]()
+* product details CTAs
+    ![product details ctas]()
+
+* add product to bag notification
+    ![add-product-notification]()
+
+#### User Story 8
+
+* I want to be able to sort the items based on their price.
+
+##### Action
+
+* User navigates to the all products page under the shop dropdown menu. There, they click the select input and choose either price low to high or price high to low.
+
+##### Expectation
+
+* The user navigates to the products page and filters the products based on their price.
+
+##### Result
+
+* The user successfully manages to filter the products on the site based on their price.
+
+* select input
+    ![select-input]()
+
+* filtered results
+    ![filtered-results]()
+
+#### User Story 9
+
+* I want to be able to see products price and sizes if they have any.
+
+##### Action
+
+* User navigates to the product details page of their choosing. There the user is able to see the products price and if it has sizes a sizes select input will be visible.
+
+##### Expectation
+
+* The user can see the price of the item on the product details page and the select input for items which have sizes.
+
+##### Result
+
+* The user can view the products prices on all products page and if the user clicks on an item and is taken to product details page the price remains visible. The size select input will only be visible on product details page if an item has different sizes.
+
+* prices all products
+    ![prices-all-products]()
+
+* prices product details
+    ![prices-product-details]()
+
+* size selector
+    ![size-selector]()
+
+#### User Story 10
+
+* I want to be able to add items to my shopping bag
+
+##### Action
+
+* User navigates to the product details page and clicks add to bag, product gets added to shopping bag
+
+##### Expectation
+
+* When the add to bag button is selected the product gets added to the users shopping bag
+
+##### Result
+
+* The user successfully adds items to their shopping bag and total cost gets displayed in the navbar underneath the bag icon.
+
+* add to bag button
+    ![add-to-bag-button])
+
+* bag in navbar with total cost displayed
+    ![bag in navbar]()
+
+#### User Story 11
+
+* I would like to be notified when I add items to bag or interact with the site functionality.
+
+##### Action
+
+* User interacts with the site in some respect and they get notified of the interaction. e.g adding a product to the bag
+
+##### Expectation
+
+* User interacts with the site and they receive a notification from the site of the interaction.
+
+##### Result
+
+* User successfully is notified of an interaction with the site. These interactions also come in form of alerts and warnings like invalid forms too
+
+* notification of interaction
+    ![notification-of-interaction]()
+
+* warning message
+    ![searchbar-invalid]()  
+
+#### User Story 12
+
+* I want to be able to edit my shopping bag.
+
+##### Action
+
+* User moves along the checkout process and goes to the bag page where they can update the quantity of each individual item and remove an item entirely from their bag.
+
+##### Expectation
+
+* The user can easily update the quantity of items in their bag and remoive items entirely from their bag.
+
+##### Result
+
+* The user changes the quantity number in the input, clicks update and the bag gets updated with the new information. If the user clicks on remove then that item will be removed from their bag entirely and they will be informed.
+
+* edit shopping bag
+    ![bag page]()
+
+* update quantity
+    ![update-quantity]()
+
+* remove item from bag
+    ![remove-from-bag]()
+
+#### User Story 13
+
+* I want the checkout process to be quick and painless.
+
+##### Action
+
+* User clicks on secure checkout on bag page, they then land on the checkout page where they fill out the form and submit their order.
+
+##### Expectation
+
+* The user follows the instructions, fills out the form, enters their correct order details, completes their order. Then they get redirected to checkout success page with details of their order and they receive a confiormation email.
+
+##### Result
+
+* The user fills in the order form correctly and is valid, completes their order, redirects to checkout success page with order details and then the user receives a confirmation email.
+
+* secure checkout button - bag page
+    ![secure-checkout-button]()
+
+* secure checkout button - toast-success
+    ![secure-checkout-button-toast]()
+
+* Order form
+    ![orderform]()
+
+* checkout success page
+    ![checkout-success-page]()
+
+* Order confirmation email
+    ![order-confirmation-email]()
+
+#### User Story 14
+
+* I want to receive confirmation of my order.
+
+##### Action
+
+* Once a user completes an order and payment a confirmation email will be sent to them
+
+##### Expectation
+
+* A user completes the checkout process for their order, they complete the payment, the order is accepted and a confirmation email will automatically be sent to them with their order details.
+
+##### Result
+
+* Once a user completes the checkout process, and they check their email account they will see a confirmation email that was sent automatically to them upon order completion and this email contains all relevant information related to their order.
+
+* Order confirmation email
+    ![order-confirmation-email])
+
+#### User Story 15
+
+* I want to be able to see previous order details.
+
+##### Action
+
+* User navigates to their profile page where they see previous orders and click on the information to see the details from their previous orders.
+
+##### Expectation
+
+* once the user clicks on the order number from a previous order they are taken to a page which displays all the relevant information from their previous order.
+
+##### Result
+
+* User successfully finds previous orders and can find all relevant information from those orders.
+
+* Previous order
+    ![previous-order]()
+
+#### User Story 16
+
+* I want my details to be saved to my account for faster purchases in future.
+
+##### Action
+
+* User goes through the checkout process to the checkout page, they fill out the order form and, if they are signed in they can check the save info button below the form or, if they are not signed in then the option to create an account or login to save info will appear.
+
+##### Expectation
+
+* When the user completes the checkout process, submits the order form and they then navigate to their profile page they will see the form prefilled with their saved orderform information.
+
+##### Result
+
+* User successfully saves their information to their account which will automatically be prefilled in future order forms for that user.
+
+* Save info button
+    ![save-info-btn]()
+
+* not logged in user
+    ![user-not-logged-in]()
+
+* Profile with default saved information
+    ![default-info]()
+
+* Prefilled future order forms
+    ![prefilled-info])
+
+
+
+
+
