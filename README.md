@@ -276,39 +276,9 @@ throughout the site include alt tags.
 
 ## Testing:
  
- - There are no errors and warnings in the Developer console
- - Tested using lighthouse and it passes the result
- - The page is fully responsive and has been tested using the Developer console.
- - Tested about, bag, check out, contact, home, review and products pages in all devices. All working fine.
- - There is no error in python codes as it passes through Pep8 online check.
- - There is no error in javascript codes as it passes through JsHint.
- - There is no error in CSS and HTML as it passes through W3C validators.
- - All the codes were formatted using git pod buit-in document formatter.
- - Tested every functionality like Stripe, add/edit/delete products, email, contact, check out, and confirmation email. All working fine.
- - Tested modal functionalities and it works fine.
+# Testing <a name="testing"></a>
 
-## Following device used for testing:
-
- #### Mobile:
-  - Pixel 2
-  - Pixel 2 XL
-  - iPhone 6, 7 and 8
-  - iPhone 6, 7 and 8 Plus (real device)
-  - iPhone X
-
-#### Tablet:
-  - iPad
-  - iPad pro
-
-#### Laptop:
-  - Macbook
-
-#### Browser:
-  - Chome
-  - Safari
-  - Firefox
-  - Opera
-  - Microsoft Edge
+* The testing section can be found [here]()
 
 ## Deployment:
 
