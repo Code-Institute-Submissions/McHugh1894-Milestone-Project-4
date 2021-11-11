@@ -683,6 +683,118 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * Prefilled future order forms
     ![prefilled-info])
 
+## Site Goal Testing
+
+#### Site Goal 1
+
+* I want to be able to add, edit and delete products, blog posts and the ability to delete comments from blog posts easily.
+
+##### Action
+
+* site admin have full CRUD ability over all things on the site. Admin can add, edit and delete products on the site or in the backend as they are set up as superusers, they can also edit and delete reviews that users have left, they can delete comments left by any user on the site and they can add edit and delete blog posts either on the site frontend or backend.
+
+##### Expectation
+
+* Site Admin have the ability to have full control over the site and when logged in as superusers, they can see additional functionality on the front end and see add and edit buttons that normal users can't see. This is mainly for safety reasons on the site.
+
+##### Result
+
+* Site Admin/Superusers have full CRUD functionality on the site and the ability and awareness to make use of the fuctionality on the site frontend and backend.
+
+* edit and delete buttons on site for admin users
+    ![edit-delete-btns]()
+
+* delete comment button
+    ![delete-comment-button]()
+
+* Admin Backend
+    ![admin-backend]()
+
+* add blog post button
+    ![add-blog-btn]()
+
+* Delete Product Modal
+    ![delete-product-modal]( )
+
+#### Site Goal 2
+
+* I want to be able to increase organic visitors to the site using SEO friendly blog posts.
+
+##### Action
+
+* Admin users can create blog posts rich with SEO friendly terms and phrases which increases organic traffic to the site.
+
+##### Expectation
+
+* The site sees an increase in visitors to the site from search engines like google who rank the site blog posts highly due to the SEO terms and searches from users.
+
+##### Result
+
+* Admin users add blog posts to the site which sees interactivity in the comments section by users and an increase in organic traffic to the site which leads to an increase in sales.
+
+* add blog post
+    ![add-blog-post]()
+
+* comments section
+    ![comments section]()
+
+#### Site Goal 3
+
+* I want an admin section of the site and to make administration tasks simpler.
+
+##### Action
+
+* Site owners/Admin are able and aware of how to access the backend of the site to make for easier administration tasks. I also want a place to see any customer messages
+
+##### Expectation
+
+* Admin users can easily access the backend and carry out their duties. They can also see any customer messages in the contact us table
+
+##### Result
+
+* Admin users have a much simpler task of doing administration duties than by doing it on the front end
+
+* Admin Backend
+    ![admin-backend]()
+
+* contacts table under home heading
+    ![contact-us]()
+
+* customer messages
+    ![customer-messages]()
+
+#### Site Goal 4
+
+* I want customers to have a relaxed and trouble free time on the site.
+
+##### Action
+
+* Customers should be able to flow through the site and navigate easily achieving their goal on the site.
+
+##### Expectation
+
+* That customers enjoy their time on the site and are able to interact with the site and make purchases where necessary.
+
+##### Result
+
+* From speaking with family members and friends who I asked to test out the site, I have received good feedback with regards to the working and functionality of the site, the navigation and the checkout process of the site. I am happy with my feedback.
+
+#### Site Goal 5
+
+* I want the site to be fully mobile responsive.
+
+##### Action
+
+* The site reacts to changes to screen size changes and remains consistent throughout.
+
+##### Expectation
+
+* The site remains consistent and functionality remains the same throughout the site
+
+##### Result
+
+* Please see above for the responsiveness testing of the site.    
+
 
 
 
