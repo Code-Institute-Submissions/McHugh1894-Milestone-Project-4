@@ -1,3 +1,18 @@
 from django.contrib import admin
+from .models import Post, Comment
 
-# Register your models here.
+
+# admin for blogs.
+class PostAdmin(admin.ModelAdmin):
+    list_display = (
+        'user',
+        'title',
+        'body',
+        'intro',
+    )
+
+    read_only = ('slug',)
+
+
+admin.site.register(Post, PostAdmin)
+admin.site.register(Comment)
