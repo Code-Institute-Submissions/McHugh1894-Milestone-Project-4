@@ -31,10 +31,10 @@ def add_review(request, product_id):
                 review.save()
                 messages.success(request,
                                  'You have successfully added a review')
-                return redirect('product_details', product.id)
+                return redirect('product_detail', product.id)
         else:
             form = ReviewForm()
-        return render(request, 'products/product_details.html', {"form": form})
+        return render(request, 'products/product_detail.html', {"form": form})
     else:
         messages.error(request, 'Please sign in to leave a review')
         return redirect('account_login')
@@ -60,7 +60,7 @@ def edit_review(request, product_id, review_id):
                     messages.success(request,
                                      'You have successfully \
                                      edited this review')
-                    return redirect('product_details', product_id)
+                    return redirect('product_detail', product_id)
             else:
                 form = ReviewForm(instance=review)
             return render(request, 'reviews/edit_review.html', {'form': form})
@@ -88,6 +88,6 @@ def delete_review(request, product_id, review_id):
             review.delete()
             messages.success(request,
                              'You have successfully deleted this review')
-        return redirect('product_details', product_id)
+        return redirect('product_detail', product_id)
     else:
         return redirect('account_login')
