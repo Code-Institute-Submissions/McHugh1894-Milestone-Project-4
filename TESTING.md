@@ -10,17 +10,9 @@ friends and family members also tested the site out on their relevant devices an
 
 Please see below for a list of all screen sizes that my site was found to be mobile responsive on:
 
-* Galaxy Fold
-
-![Galaxy Fold]()
-
 * Moto G4
 
-![Moto G4]()
-
-* Iphone 4
-
-![Iphone 4]()
+![Moto G4](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/screenshot.png)
 
 * Galaxy s5
 
@@ -30,19 +22,6 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 ![pixel 2]()
 
-
-* iphone 5
-
-![iphone 5]()
-
-* iphone 6
-
-![iphone 6]()
-
-* iphone 6 plus
-
-![iphone 6 plus]()
-
 * iphone x
 
 ![iphone x]()
@@ -50,10 +29,6 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * ipad
 
 ![ipad]()
-
-* ipad pro
-
-![ipad pro]()
 
 * surface duo
 
