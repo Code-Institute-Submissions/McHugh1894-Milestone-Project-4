@@ -92,51 +92,40 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 * In order to test checkout functionality of the site, I first added an item to my bag and proceeded to secure checkout.
 
-![secure-checkout]()
+![secure-checkout](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/add-item.png)
 
 * Then proceeded to the checkout page and fill in the orderform using stripe.
 
-![orderform]()
+![orderform](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/order-summary.png)
 
 * When the order was successful I was redirected to the checkout success page with a summary of my order information
 
-![order success]()
+![order success](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/order-success.png)
 
-* I then checked my email to ensure I received a confirmation email.
-
-![order-confirmation-email]()
-
-* Then i logged into stripe to ensure payment was successful, which it was as seen below.
-
-![stripe confirmation]()
-
-* I also checked in the admin section of the website to ensure the orderform was created. as seen below it was successful.
-
-![admin-order-confirmation]()
 
 #### Products App Functionality
 
 * To test product app functionality, I first had to login as an admin user. To add a product, I clicked on my account at the top of the page and clicked on the product management dropdown.
 
-![product-mgmt]()
+![product-mgmt](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/product-app-1.png)
 
 * I arrived on the add product page to an empty product item form which I filled in to add a new item to the database.
 
-![add-product-form]()
+![add-product-form](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/product-app-2.png)
 
 * Product got added successfully
 
-![successfully-aded-product]()
+![successfully-aded-product](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/product-app-3.png)
 
 * Only admin users will be able to edit and delete products, which can be seen below.
 
-![add-edit-btns]()
+![add-edit-btns](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/product-app-4.png)
 
 * Then I tried to edit the item by clicking edit, This brought me to the edit product page which allowed me to edit the product
 
-![edit-product-page]()
+![edit-product-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/product-app-5.png)
 
-![edit-confirmation]()
+![edit-confirmation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/product-app-6.png)
 
 * Finally, I attempted to delete my product from the site, delete confirmation should appear before product gets deleted
 
@@ -150,33 +139,33 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 * I navigated to the blog page and clicked on the add blog post button only visible to admin users.
 
-![add-blog-post-btn]()
+![add-blog-post-btn](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-1.png)
 
 * I was then taken to the add blog post page where i added a new blog post in the form provided.
 
-![add-blog-post-page]()
+![add-blog-post-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-2.png)
 
-![add-post-confirmation]()
+![add-post-confirmation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-3.png)
 
 * I then clicked on the edit button to edit the blog post and was taken to the edit blog post page.
 
-![edit-blog-post-page]()
+![edit-blog-post-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-4.png)
 
-![edit-post-successful]()
+![edit-post-successful](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-5.png)
 
 * Then I tried to delete the blog post, delete confirmation appearing first however. and confirmation of deletion
 
-![delete blog modal]()
+![delete blog modal](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-6.png)
 
-![blog-post-deleted]()
+![blog-post-deleted](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-7.png)
 
 * I then tried to leave a comment on a blog post, all users have this functionality by clicking on the blog post and scrolling to the comments section at the bottom of the page.
 
-![add-comment]()
+![add-comment](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-8.png)
 
 * I then deleted the comment so to test the delete comment is working sufficiently.
 
-![delete-comment-modal]()
+![delete-comment-modal](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-9.png)
 
 ![delete-comment]()
 
@@ -184,11 +173,11 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 * To test thye contact form I navigated to the contact us page in the nav bar 
 
-![contact-us-page]()
+![contact-us-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/contact-1.png)
 
 * I filled in the contact form and clicked the submit button to send the form.
 
-![contact-us-confirmation]()
+![contact-us-confirmation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/contact-2.png)
 
 ![contact-us-admin]()
 
@@ -200,7 +189,7 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 * I made sure any previous orders were displayed on the right and default customer information was displayed in the form oif the user chose to save their information.
 
-![profile-page]()
+![profile-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/profile-1.png)
 
 #### Form Functionality
 
@@ -285,13 +274,13 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The homepage background image makes it clear what the store is about and what we sell. The navigation is clear and intuitive with the categories of products shown and dropdown menus ti show the various categories of items on the site. The Header Cts stands out and is easy to read so makes it clear to the user whjat they need to do.
 
 * homepage background image
-    ![home-back-image]()
+    ![home-back-image](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-1.png)
 
 * Navigation
-    ![navbar]()
+    ![navbar](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-2.png)
 
 * homepage CTA
-    ![home-cta]()
+    ![home-cta](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-3.png)
 
 #### User Story 2
 
@@ -310,16 +299,16 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user is able to navigate through the site using the navbar, the user can also move to their bag page and complete their purchase by choosing the bag icon in the navbar once an item has been added. The user is also able and understanding of using the searchbar to search for products that they wish to know more about on the site. Overall, the user has a good understanding of where they are and where they want to go.
 
 * Navbar
-    ![navbar]()
+    ![navbar](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-4.png)
 
 * searchbar + bag
-    ![searchbar-and-bag]()
+    ![searchbar-and-bag](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-5.png)
 
 * bag with items
-    ![bag-with-items]()
+    ![bag-with-items](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-6.png)
 
 * my account options
-    ![my-account-options]()
+    ![my-account-options](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-7.png)
 
 #### User Story 3
 
@@ -338,13 +327,13 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user sees and navigates to the social media sites of the company and finds out the information they need about the company. The user successfully manages to send their message to the site using the contact us page and gets confirmation of successful delivery of message.
 
 * Footer with socials
-    ![footer]()
+    ![footer](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-8.png)
 
 * contact us page
-    ![contact-us]()
+    ![contact-us](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-9.png)
 
 * contact us successful
-    ![contact-us-successful]()
+    ![contact-us-successful](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-10.png)
 
 #### User Story 4
 
@@ -363,10 +352,10 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user successfully fills in all relevant information in the form and successfully sends the message to the site.
 
 * message successful
-    ![contact-us-successful]()
+    ![contact-us-successful](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-11.png)
 
 * ensure form is valid
-    ![form-validation-error]()
+    ![form-validation-error](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-12.png)
 
 #### User Story 5
 
@@ -385,16 +374,16 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user enters a search term related to an item/s on the site and the search returns items for the user. If an item is not entyered before submitting an error appears on screen to the user asking them to enter a search and if the user enters a search term not related to an item on site then a message appears informing them that no such product is in the database.
 
 * searchbar
-    ![searchbar]()
+    ![searchbar](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-13.png)
 
 * searchbar invalid
-    ![searchbar-invalid]()
+    ![searchbar-invalid](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-14.png)
 
 * search results
-    ![search-results]()
+    ![search-results](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-15.png)
 
 * no results
-    ![no-results]()
+    ![no-results](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-16.png)
 
 #### User Story 6
 
@@ -413,10 +402,10 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user successfully manages to search for products on the site using the list of subcategories in the navbar dropdown menus.
 
 * category dropdowns
-    ![category]()
+    ![category](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-17.png)
 
 * products related to category search
-    ![category-search]()
+    ![category-search](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-18.png)
 
 #### User Story 7
 
@@ -435,12 +424,12 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user successfully manages to navigate to the product details page and can see all the relevant product information displayed before the user decides whether or not to buy the product. They can then choose to add product to their bag or they can return to shopping by clicking on the buttons on the product details page. if they choose to add to their bad a notification message appears to inform them the product has been added to their bag.
 
 * product details page
-    ![product-details-page]()
+    ![product-details-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-19.png)
 * product details CTAs
-    ![product details ctas]()
+    ![product details ctas](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-20.png)
 
 * add product to bag notification
-    ![add-product-notification]()
+    ![add-product-notification](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-21.png)
 
 #### User Story 8
 
@@ -459,10 +448,10 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user successfully manages to filter the products on the site based on their price.
 
 * select input
-    ![select-input]()
+    ![select-input](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-22.png)
 
 * filtered results
-    ![filtered-results]()
+    ![filtered-results](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-23.png)
 
 #### User Story 9
 
@@ -481,13 +470,13 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user can view the products prices on all products page and if the user clicks on an item and is taken to product details page the price remains visible. The size select input will only be visible on product details page if an item has different sizes.
 
 * prices all products
-    ![prices-all-products]()
+    ![prices-all-products](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-24.png)
 
 * prices product details
-    ![prices-product-details]()
+    ![prices-product-details](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-25.png)
 
 * size selector
-    ![size-selector]()
+    ![size-selector](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-24.png)
 
 #### User Story 10
 
@@ -509,7 +498,7 @@ Please see below for a list of all screen sizes that my site was found to be mob
     ![add-to-bag-button])
 
 * bag in navbar with total cost displayed
-    ![bag in navbar]()
+    ![bag in navbar](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-26.png)
 
 #### User Story 11
 
@@ -528,10 +517,10 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * User successfully is notified of an interaction with the site. These interactions also come in form of alerts and warnings like invalid forms too
 
 * notification of interaction
-    ![notification-of-interaction]()
+    ![notification-of-interaction](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-27.png)
 
 * warning message
-    ![searchbar-invalid]()  
+    ![searchbar-invalid](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-28.png)  
 
 #### User Story 12
 
@@ -550,13 +539,13 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user changes the quantity number in the input, clicks update and the bag gets updated with the new information. If the user clicks on remove then that item will be removed from their bag entirely and they will be informed.
 
 * edit shopping bag
-    ![bag page]()
+    ![bag page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-29.png)
 
 * update quantity
-    ![update-quantity]()
+    ![update-quantity](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-30.png)
 
 * remove item from bag
-    ![remove-from-bag]()
+    ![remove-from-bag](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-31.png)
 
 #### User Story 13
 
@@ -575,19 +564,19 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * The user fills in the order form correctly and is valid, completes their order, redirects to checkout success page with order details and then the user receives a confirmation email.
 
 * secure checkout button - bag page
-    ![secure-checkout-button]()
+    ![secure-checkout-button](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-32.png)
 
 * secure checkout button - toast-success
-    ![secure-checkout-button-toast]()
+    ![secure-checkout-button-toast](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-33.png)
 
 * Order form
-    ![orderform]()
+    ![orderform](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-34.png)
 
 * checkout success page
-    ![checkout-success-page]()
+    ![checkout-success-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-35.png)
 
 * Order confirmation email
-    ![order-confirmation-email]()
+    ![order-confirmation-email](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-36.png)
 
 #### User Story 14
 
@@ -625,7 +614,7 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * User successfully finds previous orders and can find all relevant information from those orders.
 
 * Previous order
-    ![previous-order]()
+    ![previous-order](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-38.png)
 
 #### User Story 16
 
@@ -644,13 +633,13 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * User successfully saves their information to their account which will automatically be prefilled in future order forms for that user.
 
 * Save info button
-    ![save-info-btn]()
+    ![save-info-btn](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-39.png)
 
 * not logged in user
-    ![user-not-logged-in]()
+    ![user-not-logged-in](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-40.png)
 
 * Profile with default saved information
-    ![default-info]()
+    ![default-info](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-41.png)
 
 * Prefilled future order forms
     ![prefilled-info])
@@ -674,19 +663,17 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * Site Admin/Superusers have full CRUD functionality on the site and the ability and awareness to make use of the fuctionality on the site frontend and backend.
 
 * edit and delete buttons on site for admin users
-    ![edit-delete-btns]()
+    ![edit-delete-btns](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-43.png)
 
 * delete comment button
-    ![delete-comment-button]()
+    ![delete-comment-button](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-44.png)
 
 * Admin Backend
-    ![admin-backend]()
+    ![admin-backend](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-45.png)
 
 * add blog post button
-    ![add-blog-btn]()
+    ![add-blog-btn](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-46.png)
 
-* Delete Product Modal
-    ![delete-product-modal]( )
 
 #### Site Goal 2
 
