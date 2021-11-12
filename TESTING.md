@@ -16,23 +16,20 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 * Galaxy s5
 
-![Galaxy s5]()
+![Galaxy s5](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/screenshot2.png)
 
-* pixel 2
-
-![pixel 2]()
 
 * iphone x
 
-![iphone x]()
+![iphone x](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/screenshot3.png)
 
 * ipad
 
-![ipad]()
+![ipad](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/screenshot4.png)
 
 * surface duo
 
-![surface duo]()
+![surface duo](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/screenshot5.png)
 
 
 ### Lighthouse
@@ -42,10 +39,10 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * Initially, there were some issues regarding alt text of images but I made the changes necessary and please see below for the lightouse reports for both desktop and mobile.
 
 * Desktop
-    * ![lighthouse-desktop]()
+    * ![lighthouse-desktop](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/lighthouse-desktop.png)
 
 * Mobile
-    * ![lighthouse-mobile]()
+    * ![lighthouse-mobile](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/lighthouse-mobile.png)
 
 ### Code validation
 
@@ -81,15 +78,15 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 * to test the bag, I navigated to the products page, clicked on a product and chose "add to bag"
 
-![add-to-bag]()
+![add-to-bag](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/add-to-bag.png)
 
 * This worked, so I then went to the bag page and tried to edit the qty of the product in my bag.
 
-![update-bag-page]()
+![update-bag-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/edit-quantity.png)
 
 * I also then tried to remove the item from my bag to test delete functionality.
 
-![delete-bag-page]()
+![delete-bag-page](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/remove-from-bag.png)
 
 #### Checkout App Functionality
 
