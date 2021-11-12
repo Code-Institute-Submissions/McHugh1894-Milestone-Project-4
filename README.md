@@ -54,52 +54,6 @@ The Fit4Life website is a real world application, designed for the selling of fi
 1. The site owner's primary goal is to sell their products to new and returning customers.
 2. The secondary goal is to showcase new products that are available to new and returning customers. 
 
-## User Stories
-
-  ### Viewing and Navigation
-- #### As a shopper
-    1. I want to be able to view a list of products so that I can select a purchase.
-    1. I want to be able to view individual products details so that I can identify the price, description, rating, image and availability.
-    1. I want to be able to be easily view the total of my purchase at any time so that I dont spend too much.
-
-### Registration and User Account
-- #### As a site user
-     1. I want to be able to easily register so that I can have a personal account and and be able to view my profile.
-    1. I want to be able to easily login or logout so that I can access my personal account information.
-    1. I want to be able to recieve an email confirmation after registering so that I can verify my account.
-    1. I want to be able to have a personal profile so that I can view my order history.
-
-### Sorting and Searching
-- #### As a shopper
-     1. I want to be able to sort the list of available products so that I can easily identify the best priced, rated and categorically sorted products.
-    1. I want to be able to sort a specific category or product so that I can find the best priced or best rated in a specific category.
-    1. I want to be able to search for a product by name or description so that I can find a specific product.
-    1. I want to be able to easily see what I searched for.
-
-### Purchasing and Checkout
-- #### As a shopper
-     1. I want to be able to select the size and quantity of a product so that I dont select the wrong option when purchasing.
-    1. I want to be able to view the item in my bag to be purchased so that I see the cost of the items and what I will recieve.
-    1. I want to be able to adjust the quantity of individual items in my bag so that I can make changes to my purchase before checkout
-    1. I want to be able to easily enter my payment information so that I can checkout quickly.
-    1. I want to be able to personal and payment information is safe and secure so that I can confidently provide the needed information for purchase. 
-    1. I want to be able to view an order confirmation after checkout so that I can verify that I havent made any mistakes.
-
-### Admin and Store Management
-- #### As a store owner
-     1. I want to be able to add a product so that I can add new items to my store.
-    1. I want to be able to edit/update a product so that I can change prices, images, description and other criteria.
-    1. I want to be able to delete a product so that I can remove an item that is no longer for sale.
-
-### Blog
-- #### As a shopper
-     1. I want to be able to learn about the company background so that I can build trust on the company and services.
-
-### Contact
-- #### As a site owner
-     1. I want to be able to recieve queries so that I can provide a better service to the customer.
-     
-                  
                   
 ## Design:
 
@@ -278,7 +232,7 @@ throughout the site include alt tags.
  
 # Testing <a name="testing"></a>
 
-* The testing section can be found [here]()
+* The testing section can be found [here](https://github.com/McHugh1894/Milestone-Project-4/blob/main/TESTING.md)
 
 ## Deployment:
 
