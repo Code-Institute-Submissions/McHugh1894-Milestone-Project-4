@@ -50,25 +50,25 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 * I used W3C Markup validation for my HTML validation and my code passed this test.
 
-![html validation]()
+![html validation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/html-validation.png)
 
 #### CSS
 
 * I used W3C Markup validation for my CSS validation and my code passed this test.
 
-![css validation]()
+![css validation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/css-validation.png)
 
 #### JavaScript
 
 * I used jshint validation for my JavaScript validation and my code passed this test.
 
-![JavaScript validation]()
+![JavaScript validation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/javascript_validation.png)
 
 #### Python
 
 * I used pep8 validation for my Python validation and my code passed this test.
 
-![python validation]()
+![python validation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/python-validation.png)
 
 ### Manual Testing of site
 
