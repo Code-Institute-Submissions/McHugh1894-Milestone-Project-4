@@ -6,32 +6,34 @@ from .forms import ContactForm
 
 
 def contact(request):
-    """ Customer contact form view """
-    contact_form = ContactForm
+    '''This view returns contact page and
+       posts the contact form information to the db
+    '''
     if request.method == "POST":
-        form_data = {
-            'name': request.POST.get('name', ''),
-            'email': request.POST.get('email', ''),
-            'message': request.POST.get('message', '')
-        }
-        print(f"FORM_DATA: {form_data}")
-        form = contact_form(form_data)
+        form = ContactForm(request.POST)
+        if form.is_valid:
+            form.subject = request.POST['subject'],
+            form.message = request.POST['message'],
+            form.email = request.POST['email'],
+            form.save()
+            user_email = ''.join(form.email)
+            messages.success(request,
+                             f"Thanks { user_email }, Your message has been sent.\
+                             We will be in touch shortly.")
+            return redirect("home")
+        else:
+            messages.error(request,
+                           'Error: something has gone wrong \
+                            please try again later.')
+            return redirect('home')
+    else:
+        form = ContactForm()
 
-        if form.is_valid():
-            print("Form is valid")
-            send_mail(
-                form_data['name'] + " - " + form_data['email'],
-                form_data['message'],
-                'fit4life1894@gmail.com',
-                [settings.DEFAULT_FROM_EMAIL],
-                fail_silently=False,
-            )
-        messages.success(
-            request, 'We have received your queries, we will get back to you within 2 business days, Thanks!'  # noqa: E501
-            )
-        return redirect('contact')
+    template = 'contact/contact.html'
     context = {
-        'form': contact_form,
+        'form': form,
     }
 
-    return render(request, 'contact/contact.html', context)
+    return render(request,
+                  template,
+                  context)
