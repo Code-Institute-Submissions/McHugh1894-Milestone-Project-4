@@ -103,6 +103,8 @@ The Fit4Life website is a real world application, designed for the selling of fi
     - **Shirts**: Shows all shirts.
     - **Shorts**: Shows all shorts.
     - **All Fitness Clothing**: Show all clothing products.
+  **Contact**: Opens a page to contact the company.
+  **Blog**: Opens the blog page.
 
 #### Accessible to logged in regisered users via the Navbar:
 
