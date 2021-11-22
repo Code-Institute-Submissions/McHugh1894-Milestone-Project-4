@@ -219,7 +219,7 @@ In future I would like to add the following features:
 
 - The image below was produced using the [dbdiagram.io](https://dbdiagram.io/)
 
-<img src="media/README-Images/diagram.png">
+<img src="media/README-Images/database_diagram.png">
 
 ## Accessibility:
 
