@@ -127,11 +127,9 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 ![edit-confirmation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/product-app-6.png)
 
-* Finally, I attempted to delete my product from the site, delete confirmation should appear before product gets deleted
+* Finally, I attempted to delete my product from the site, delete confirmation should appear when a product gets deleted
 
-![delete-product-modal]()
-
-![delete-confirmation]()
+![delete-confirmation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/delete-confirmation.png)
 
 #### Blog Functionality
 
