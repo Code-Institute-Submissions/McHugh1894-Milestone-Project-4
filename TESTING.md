@@ -165,7 +165,7 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 ![delete-comment-modal](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/blog-9.png)
 
-![delete-comment]()
+![delete-comment](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/delete-comment.png)
 
 #### contact us Functionality
 
@@ -177,7 +177,6 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 ![contact-us-confirmation](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/contact-2.png)
 
-![contact-us-admin]()
 
 #### Profiles Functionality
 
@@ -191,9 +190,7 @@ Please see below for a list of all screen sizes that my site was found to be mob
 
 #### Form Functionality
 
-* All forms have been checked to ensure incorrect or blank inputs give errors to the user if aa blank field is empty.
-
-![invalid-forms]()
+* All forms have been checked to ensure incorrect or blank inputs give errors to the user if a blank field is empty.
 
 ### issues/Bugs during development
 
@@ -667,7 +664,7 @@ Please see below for a list of all screen sizes that my site was found to be mob
     ![delete-comment-button](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-44.png)
 
 * Admin Backend
-    ![admin-backend](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-45.png)
+    ![admin-backend](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/site-admin.png)
 
 * add blog post button
     ![add-blog-btn](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/user-story-46.png)
@@ -690,10 +687,10 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * Admin users add blog posts to the site which sees interactivity in the comments section by users and an increase in organic traffic to the site which leads to an increase in sales.
 
 * add blog post
-    ![add-blog-post]()
+    ![add-blog-post](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/add-blog-post.png)
 
 * comments section
-    ![comments section]()
+    ![comments section](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/comment-section.png)
 
 #### Site Goal 3
 
@@ -712,13 +709,13 @@ Please see below for a list of all screen sizes that my site was found to be mob
 * Admin users have a much simpler task of doing administration duties than by doing it on the front end
 
 * Admin Backend
-    ![admin-backend]()
+    ![admin-backend](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/site-goal-3-1.png)
 
 * contacts table under home heading
-    ![contact-us]()
+    ![contact-us](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/site-goal-3-2.png)
 
 * customer messages
-    ![customer-messages]()
+    ![customer-messages](https://github.com/McHugh1894/Milestone-Project-4/blob/main/media/README-Images/TESTING-Images/site-goal-3-3.png)
 
 #### Site Goal 4
 
